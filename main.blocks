@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="6uRupz4zI}Z$$)d/Y/#Y" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="):hrK71gy$lXyT/hKTY]" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="console.log('hello')" numlines="1"></mutation></block></statement></block></xml>
